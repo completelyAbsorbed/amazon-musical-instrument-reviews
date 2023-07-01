@@ -1,0 +1,49 @@
+~ Progress Tracker ~ 
+
+#################################################################################################### 
+# Amazon Musical Instruments Reviews
+# Code Portfolio Project
+# 
+# Liz Young
+####################################################################################################
+
+[x] set up github repo (private) : 
+	https://github.com/completelyAbsorbed/amazon-musical-instrument-reviews
+[x] set up local repo : 
+	C:\Users\liz\iCloudDrive\code\AmazonMusicalInstruments\data_AmazonMusicalInstruments
+[] gather relevant process maps from Google Advanced Data Analytics Certificate course
+[x] decide on dataset : 
+	https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews?resource=download
+[x] obtain dataset : 
+	Musical_instruments_reviews.csv
+[*] make jupyter notebook : 
+	Untitled.ipynb (* rename this!)
+[x] jupyter ~ load data 
+[x] jupyter ~ initial inspection of data  
+[] jupyter ~ clean data 
+[] jupyter ~ exploratory data analysis
+[] jupyter ~ are any variables irrelevant? : 
+[] jupyter ~ drop irrelevant variables, if any 
+[] jupyter ~ slice 1
+[] jupyter ~ slice 2
+[] jupyter ~ analyze 1
+[] jupyter ~ analyze 2
+[] jupyter ~ prep for model 1
+[] jupyter ~ prep for model 2
+[] jupyter ~ 
+[] jupyter ~ 
+[] jupyter ~ 
+[] jupyter ~ 
+
+
+####################################################################################################
+# before this planner made it to git ... (notes for project process reflection and improvement)
+####################################################################################################
+
+- I walked to the park, reviewed the email from the recruiter for a position I had an upcoming 
+	technical interview for, wrote down key things to prepare for interview based on recruiter's 
+	instruction and job posting, drafted an initial plan 
+- set up github private repo via github CLI
+- reviewed potential datasets to work with - decided on the Amazon Musical Instruments reviews 
+	dataset from searching Kaggle to illustrate transforming semistructured/unstructured data in the
+	form of text reviews etc
