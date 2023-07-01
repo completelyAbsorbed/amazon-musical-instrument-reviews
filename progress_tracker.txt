@@ -11,17 +11,47 @@
 	https://github.com/completelyAbsorbed/amazon-musical-instrument-reviews
 [x] set up local repo : 
 	C:\Users\liz\iCloudDrive\code\AmazonMusicalInstruments\data_AmazonMusicalInstruments
-[] gather relevant process maps from Google Advanced Data Analytics Certificate course
+[x] gather relevant process maps from Google Advanced Data Analytics Certificate course :
+	(outline plan for this project in PACE format below)
+	PACE - Plan, Analyze, Construct, Execute - workflow for data projects
+		Plan - for the planning stage of this project I ...
+			mapped out my plan (in this tracker)
+			reviewed stakeholder requirements (information from recruiter and job posting)
+			researched possible datasets to work with and settled on one (AMZN Musical Instruments)
+		Analyze - assemble the data and decide on how to approach the problem at-hand 
+			download data
+			inspect data
+			clean data 
+			perform EDA
+			identify interesting areas to explore 
+			settle on a path or path(s) to explore for the purposes of this project 
+		Construct - build the project ...
+			deliverables : 
+				a clean Jupyter notebook to walk through with interviewers
+				actual presentation of the code in interview, speaking to 
+					principles (i.e. readable code, variable naming)
+					best-practices (i.e. documentation)
+					patterns of software design (i.e. object-oriented and/or functional programming)
+				version control of this project showing ...
+					use of git and commandline
+					progress in problem-solving approach 
+					competent use of version control 
+		Execute - convey the appropriate results and information to stakeholders (interviewers)
+			walk through my code with interviewers
+			share notebook and private github repo with interviewers
+			invite follow-ups, questions, clarifications
 [x] decide on dataset : 
 	https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews?resource=download
 [x] obtain dataset : 
 	Musical_instruments_reviews.csv
-[*] make jupyter notebook : 
-	Untitled.ipynb (* rename this!)
+[x] make jupyter notebook : 
+	musical_instruments_reviews_analysis.ipynb 
 [x] jupyter ~ load data 
-[x] jupyter ~ initial inspection of data  
+[] jupyter ~ initial inspection of data  
 [] jupyter ~ clean data 
-[] jupyter ~ exploratory data analysis
+[] jupyter ~ exploratory data analysis, what are some interesting aspects to explore?
+	(1) ...
+	(2) ...
 [] jupyter ~ are any variables irrelevant? : 
 [] jupyter ~ drop irrelevant variables, if any 
 [] jupyter ~ slice 1
