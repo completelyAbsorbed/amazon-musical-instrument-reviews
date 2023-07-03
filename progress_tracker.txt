@@ -55,6 +55,7 @@
 [x] add ssh for github to desktop and sync to github account
 [x] jupyter ~ split into train-test-validate based on time
 [x] jupyter ~ exploratory data analysis, what are some interesting aspects to explore?
+[x] make repo public
 
 
 ####################################################################################################
