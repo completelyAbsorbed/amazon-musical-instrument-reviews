@@ -1,4 +1,4 @@
-~ Progress Tracker ~ 
+0~ Progress Tracker ~ 
 
 #################################################################################################### 
 # Amazon Musical Instruments Reviews
@@ -52,6 +52,7 @@
 [x] jupyter ~ clean data - transforming 'helpful' was all the cleaning that is necessary
 [x] jupyter ~ create new columns
 [x] jupyter ~ construct cleaned dataframe 'data_clean'
+[] jupyter ~ split into train-test-validate based on time
 [] jupyter ~ exploratory data analysis, what are some interesting aspects to explore?
 	(1) ...
 	(2) ...
