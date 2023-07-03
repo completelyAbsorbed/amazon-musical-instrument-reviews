@@ -47,7 +47,7 @@
 [x] make jupyter notebook : 
 	musical_instruments_reviews_analysis.ipynb 
 [x] jupyter ~ load data 
-[] jupyter ~ initial inspection of data  
+[x] jupyter ~ initial inspection of data  
 [] jupyter ~ clean data 
 [] jupyter ~ exploratory data analysis, what are some interesting aspects to explore?
 	(1) ...
