@@ -53,20 +53,10 @@
 [x] jupyter ~ create new columns
 [x] jupyter ~ construct cleaned dataframe 'data_clean'
 [x] add ssh for github to desktop and sync to github account
-[] jupyter ~ split into train-test-validate based on time
+[x] jupyter ~ split into train-test-validate based on time
 [] jupyter ~ exploratory data analysis, what are some interesting aspects to explore?
 	(1) ...
-	(2) ...
-[] jupyter ~ slice 1
-[] jupyter ~ slice 2
-[] jupyter ~ analyze 1
-[] jupyter ~ analyze 2
-[] jupyter ~ prep for model 1
-[] jupyter ~ prep for model 2
-[] jupyter ~ 
-[] jupyter ~ 
-[] jupyter ~ 
-[] jupyter ~ 
+	(2) ... 
 
 
 ####################################################################################################
