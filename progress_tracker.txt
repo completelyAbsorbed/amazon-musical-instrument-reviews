@@ -50,8 +50,8 @@
 [x] jupyter ~ initial inspection of data  
 [x] jupyter ~ are any variables irrelevant? : reviewerID, asin, reviewerName, unixReviewTime, reviewTime
 [x] jupyter ~ clean data - transforming 'helpful' was all the cleaning that is necessary
-[] jupyter ~ create new columns
-[] jupyter ~ construct cleaned dataframe 'data_clean'
+[x] jupyter ~ create new columns
+[x] jupyter ~ construct cleaned dataframe 'data_clean'
 [] jupyter ~ exploratory data analysis, what are some interesting aspects to explore?
 	(1) ...
 	(2) ...
