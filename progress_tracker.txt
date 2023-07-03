@@ -48,12 +48,14 @@
 	musical_instruments_reviews_analysis.ipynb 
 [x] jupyter ~ load data 
 [x] jupyter ~ initial inspection of data  
-[] jupyter ~ clean data 
+[] jupyter ~ are any variables irrelevant? : 
+[] jupyter ~ drop irrelevant variables, if any 
+[x] jupyter ~ clean data - transforming 'helpful' was all the cleaning that is necessary
+[] jupyter ~ drop irrelevant data   
+[] jupyter ~ create new columns
 [] jupyter ~ exploratory data analysis, what are some interesting aspects to explore?
 	(1) ...
 	(2) ...
-[] jupyter ~ are any variables irrelevant? : 
-[] jupyter ~ drop irrelevant variables, if any 
 [] jupyter ~ slice 1
 [] jupyter ~ slice 2
 [] jupyter ~ analyze 1
